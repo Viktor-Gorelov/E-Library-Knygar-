@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookAssistantApp</string>
+    <string name="app_title">Книгар</string>
+    <string name="library_btn">Моя Бібліотека</string>
+    <string name="set_reminder_btn">Встановити Сповіщення</string>
+    <string name="set_reminder">Встановити сповіщення</string>
+    <string name="books_screen_title">Моя Бібліотека</string>
+    <string name="book_screen_sort">Сортувати за:</string>
+    <string name="book_title_label">Додайте книгу</string>
+    <string name="add_book_title_hint">Введіть назву книги</string>
+    <string name="add_btn">Додати</string>
+    <string name="no_book">Книгу не знайдено</string>
+    <string name="copy_book">Книга вже є в Бібліотеці</string>
+    <string name="detail_info_label_book">Детальна інформація</string>
+    <string name="detail_info_title_book">Назва:</string>
+    <string name="detail_info_genre_book">Жанр:</string>
+    <string name="detail_info_author_book">Автор:</string>
+    <string name="detail_info_description_book">Опис:</string>
+    <string name="detail_info_review_book_hint">Напишіть рецензію</string>
+    <string name="detail_info_add_review_book">Опублікувати рецензію</string>
+    <string name="detail_info_check_favorite_book">Улюблене</string>
+    <string name="detail_info_check_complete_book">Прочитано</string>
+</resources>
